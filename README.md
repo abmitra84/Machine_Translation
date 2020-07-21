@@ -1,1 +1,9 @@
 # Machine_Translation
+
+1. Andrew Ng's Sequence Modeling Course at deeplearning.ai
+2. Attention Model:
+    Jay Alammar: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+    Bahdanau Attention: https://arxiv.org/pdf/1409.0473.pdf
+    Self Attention in Transformer - by Jay Alammar: http://jalammar.github.io/illustrated-transformer/
+3. Attention is all you need - Transformer (Paper): https://arxiv.org/abs/1706.03762
+4. Transformer Architecture Blog by Google: https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
