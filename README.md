@@ -7,3 +7,4 @@
     Self Attention in Transformer - by Jay Alammar: http://jalammar.github.io/illustrated-transformer/
 3. Attention is all you need - Transformer (Paper): https://arxiv.org/abs/1706.03762
 4. Transformer Architecture Blog by Google: https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
+5. Annotated Transformer: http://nlp.seas.harvard.edu/2018/04/03/attention.html
